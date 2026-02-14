@@ -78,7 +78,7 @@ Git • Linux • System Design Basics • Data Pipelines • Observability
 ## 🧠 Coding Arena (LeetCode)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/piyush3110?theme=dark&font=Fira%20Code&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/nwFs6kqzWg?theme=catppuccinMocha&font=Martel%20Sans" />
 </p>
 
 ---
